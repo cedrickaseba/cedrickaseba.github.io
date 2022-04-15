@@ -1,0 +1,32 @@
+body {
+    background-color: red;
+    background-image: url(https://cdn.radiofrance.fr/s3/cruiser-production/2021/06/e27f1094-a2f7-4cea-9a4f-55e4ed6882c2/1136_football-illustration-gettyimages-1284843302-jpg.jpg);
+}
+
+p {
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+nav.menu-nav ul li.btn {
+    display: inline-block;
+}
+
+nav.menu-nav ul li.btn {
+    list-style-type: none;
+}
+
+nav.menu-nav ul li.btn a {
+    color: whitesmoke;
+    background-color: red;
+    text-decoration: none;
+    padding: 10px;
+    font-family: cursive;
+}
+
+nav.menu-nav ul li.btn:hover a {
+    color: red;
+    background-color: whitesmoke;
+    transition: 0.3s all;
+}

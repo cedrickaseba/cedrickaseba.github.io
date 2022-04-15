@@ -1,0 +1,16 @@
+p {
+    font-family: cursive;
+    font-weight: lighter;
+    font-size: medium;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 50px;
+    width: 600px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
